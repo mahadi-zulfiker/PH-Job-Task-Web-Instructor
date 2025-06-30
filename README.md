@@ -64,8 +64,8 @@ Before you begin, ensure you have the following installed:
 
 1.  Clone the repository:  
     
-        git clone https://github.com/your-username/eventify.git
-        cd eventify
+        git clone https://github.com/mahadi-zulfiker/PH-Job-Task-Web-Instructor
+        cd PH-Job-Task-Web-Instructor
     
 2.  Install dependencies:
     
